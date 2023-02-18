@@ -1,0 +1,7 @@
+com\demo\station\listener\WeatherDataListener.class
+com\demo\station\mapper\WeatherLatestDataMapper.class
+com\demo\station\service\IWeatherLatestDataService.class
+com\demo\station\WeatherClientServiceApplication.class
+com\demo\station\config\RabbitConfig.class
+com\demo\station\entity\WeatherEntity.class
+com\demo\station\service\impl\WeatherLatestDataServiceImpl.class

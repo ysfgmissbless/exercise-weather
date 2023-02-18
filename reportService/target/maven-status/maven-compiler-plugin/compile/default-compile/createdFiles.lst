@@ -1,0 +1,7 @@
+com\demo\report\enums\CityEnum.class
+com\demo\report\WeatherReportServiceApplication.class
+com\demo\report\config\RabbitConfig.class
+com\demo\report\config\WeatherSender.class
+com\demo\report\entity\WeatherEntity.class
+com\demo\report\util\WeatherDataOperUtil.class
+com\demo\report\task\LatestDataNotifyTask.class
