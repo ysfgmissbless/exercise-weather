@@ -1,0 +1,14 @@
+*.class
+*.jar
+*.war
+
+#Gradle temporary files
+target/
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+
+# virtual machine crash logs
+hs_err_pid*
