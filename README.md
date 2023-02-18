@@ -4,6 +4,8 @@
 
 2.client service:service as subscriber to listen rabbit msg and log data
 
+3.It is a simple version, Actually there are something uncompleted,like opening message-confirm pattern,providing query api,compartmentalizing common jar or something else like that
+
 ## source part
 
 SpringBoot+MyBatis+MySql+Rabbit
