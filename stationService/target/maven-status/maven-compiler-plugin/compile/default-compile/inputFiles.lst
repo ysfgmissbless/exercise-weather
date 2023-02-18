@@ -1,7 +1,0 @@
-D:\tangqilong\epam\exercise\stationService\src\main\java\com\demo\station\WeatherClientServiceApplication.java
-D:\tangqilong\epam\exercise\stationService\src\main\java\com\demo\station\entity\WeatherEntity.java
-D:\tangqilong\epam\exercise\stationService\src\main\java\com\demo\station\service\IWeatherLatestDataService.java
-D:\tangqilong\epam\exercise\stationService\src\main\java\com\demo\station\service\impl\WeatherLatestDataServiceImpl.java
-D:\tangqilong\epam\exercise\stationService\src\main\java\com\demo\station\mapper\WeatherLatestDataMapper.java
-D:\tangqilong\epam\exercise\stationService\src\main\java\com\demo\station\config\RabbitConfig.java
-D:\tangqilong\epam\exercise\stationService\src\main\java\com\demo\station\listener\WeatherDataListener.java
